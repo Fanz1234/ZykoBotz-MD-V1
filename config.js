@@ -1,11 +1,11 @@
-// S C R I P T  O R I  B Y  Aldi Lesmana🔭
-// Ditulis Ulang Oleh ZYKO-MD
+// S C R I P T  O R I  B Y  Fanz🔭
+// Ditulis Ulang Oleh Fanz
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
 // • WH MODS DEV
-// • ZYKO-MD
+// • Fanz
 // • Dll
 
 //[!] Jangan Lupa Ganti Ownernya
