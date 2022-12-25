@@ -1,6 +1,6 @@
 // virtex lu
 const gmail1 = `
-Hay Fitur eror yang anda gunakan sudah di Fix oleh moderator Fangz BOT
+Hay Fitur eror yang anda gunakan sudah di Fix oleh moderator Fanz BOT
 Jika ada fitur eror lainya ketik .report ya
 Agar kami tangani secepatnya 
 
@@ -20,9 +20,9 @@ function pickRandom(list) {
  * Jangan Di Hapus!!
  * 
  * Buatan @FokusDotId (Fokus ID)
- * Github: https://github.com/fokusdotid
+ * Github: https://github.com/
  * 
  * Ingin bikin fitur tapi tidak bisa coding?
- * hubungi: https://wa.me/6281320170984
+ * hubungi: https://wa.me/6285812373011
  * 
  */
