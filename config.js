@@ -50,21 +50,21 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true]
+['6285812373011', '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙', true],
+['6285812373011', '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285715382503'
-global.nomorown = '6281386943282'
-global.nomorown1 = '6281386943282'
-global.nomorown2 = '6281386943282'
+global.nomorbot = '6285812373011'
+global.nomorown = '6285812373011'
+global.nomorown1 = '6285812373011'
+global.nomorown2 = '6285812373011'
 global.nomorwa = '0'
-global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown = '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙'
 
 /*============== STAFF ==============*/
 /*global.owner = [
-  ['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+  ['6285812373011', '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -74,53 +74,53 @@ global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.botintro = 'Hallo, Saya ZykoBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
-global.author = 'Created By 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.media = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg'
+global.gcname = '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡'
+global.botintro = 'Hallo, Saya FanzBotzz_Md Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/e83ba3c272120b6b3ed05.jpg'
+global.author = 'Created By 𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙'
+global.namebot = '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙'
+global.packname2 = '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙'
+global.media = 'https://telegra.ph/file/eeb0490126df245045890.jpg'
 global.watermark = wm
-global.wame = 'https://wa.me/message/IT4R6JHOR74XP1'
-global.wm2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 '
+global.wame = '-'
+global.wm2 = '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
-global.stickpack = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.stickauth = `© 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
+global.titlebot = `𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙`
+global.stickpack = '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙'
+global.stickauth = `© 𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.nameown2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown1= '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙'
+global.nameown2 = '𝙁𝙖𝙣𝙯𝘽𝙤𝙩𝙯𝙯_𝙈𝙙'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/IT4R6JHOR74XP1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R' //group whatsapp
+global.sig = '-'
+global.tautanwa = '-'
+global.sgh = '-' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/@zykobotz'
-global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R'
+global.syt = '-'
+global.sfb = '-' // facebook
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085212649276'
-global.povo = '081386943282'
-global.pgopay = '085212649276'
+global.pdana = '085812373011'
+global.povo = '-'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085212649276'
-global.ppulsa2 = '085212649276'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '-'
+global.ppulsa2 = '-'
+global.psaweria = 'https://saweria.co/'
+global.donasikabul = 'Jasa Sewa FanzBotzz_Md',
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -294,10 +294,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg'
+global.thumb = 'https://telegra.ph/file/eeb0490126df245045890.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/eeb0490126df245045890.jpg'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
-global.thumbs = ['https://telegra.ph/file/6db207196807bcf1ca1c5.jpg']
+global.thumbs = ['https://telegra.ph/file/eeb0490126df245045890.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -305,8 +305,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg', 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/e92e6a4b3c1b35f4ebd70.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e92e6a4b3c1b35f4ebd70.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/eeb0490126df245045890.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/e83ba3c272120b6b3ed05.jpg' //ini juga ganti 
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
@@ -341,9 +341,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "-"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6281386943282'
+global.phn = '6285812373011'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
